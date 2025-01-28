@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoshanShaik0337
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... javascript
-- 💞️ I’m looking to collaborate on ... responsive web design
+- 👀 I’m interested in ... software development
+- 🌱 I’m currently learning ... DSA
+- 💞️ I’m looking to collaborate on ... software development
 - 📫 How to reach me ... roshanshaik378@gmail.com
 - 😄 Pronouns: ... HE/HIM
 - ⚡ Fun fact: ... iam just beginner
