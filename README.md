@@ -15,11 +15,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RoshanShaik0337&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ### 🐍 GitHub Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/<your-RoshanShaik0337>/<your-snake-game>/output/github-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/RoshanShaik0337/RoshanShaik0337/output/github-snake.svg)
+
 
 
 ---
